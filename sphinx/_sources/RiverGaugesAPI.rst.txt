@@ -1,0 +1,7 @@
+RiverGaugesAPI module
+=====================
+
+.. automodule:: RiverGaugesAPI
+   :members:
+   :undoc-members:
+   :show-inheritance:

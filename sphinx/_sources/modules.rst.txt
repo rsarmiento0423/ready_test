@@ -1,0 +1,16 @@
+scripts
+=======
+
+.. toctree::
+   :maxdepth: 4
+
+   CommonAPI
+   CommonLibrary
+   LibraryAPI
+   ReadyLibraryPage
+   ReadyLivePage
+   ReadyLoginPage
+   ReadyPastPredictionsPage
+   ReadyProfilePage
+   RiverGaugesAPI
+   UserAPI

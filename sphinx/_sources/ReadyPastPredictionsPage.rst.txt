@@ -1,0 +1,7 @@
+ReadyPastPredictionsPage module
+===============================
+
+.. automodule:: ReadyPastPredictionsPage
+   :members:
+   :undoc-members:
+   :show-inheritance:

@@ -1,0 +1,7 @@
+ReadyLibraryPage module
+=======================
+
+.. automodule:: ReadyLibraryPage
+   :members:
+   :undoc-members:
+   :show-inheritance:

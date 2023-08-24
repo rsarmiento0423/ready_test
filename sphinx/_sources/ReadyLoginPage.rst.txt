@@ -1,0 +1,7 @@
+ReadyLoginPage module
+=====================
+
+.. automodule:: ReadyLoginPage
+   :members:
+   :undoc-members:
+   :show-inheritance:

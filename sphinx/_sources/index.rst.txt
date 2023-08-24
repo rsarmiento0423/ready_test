@@ -1,0 +1,33 @@
+Welcome to Ready UI Automation's documentation!
+===============================================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
+
+
+scripts
+=======
+
+.. toctree::
+   :maxdepth: 4
+
+   CommonAPI
+   CommonLibrary
+   LibraryAPI
+   ReadyLibraryPage
+   ReadyLivePage
+   ReadyLoginPage
+   ReadyPastPredictionsPage
+   ReadyProfilePage
+   RiverGaugesAPI
+   UserAPI

@@ -1,0 +1,38 @@
+{
+	"kcusername": "ENC[AES256_GCM,data:wPanniKEyu6X3hC+cWoQy4R77YVr65XvZA==,iv:F0/o/x+2GIWjPz9wyQYgnVZALaNy8SwdUb2BGc+4M+c=,tag:d3X075iG4Vh1VO7TaUoSOw==,type:str]",
+	"kcpassword": "ENC[AES256_GCM,data:u2HK3qaONZ6B9SPrtDQcQSA=,iv:Z4VmxR6szJvJ3MFQGLE72W5rXPfrGdGMA1+65cWP4A8=,tag:Pn7wONbTKusk9dq5+GAiEg==,type:str]",
+	"chibausername": "ENC[AES256_GCM,data:9CdKuLTgHFFCTbdsYaqKNIKK0vtwXsJCn7Mm5A==,iv:5SfeIrGPM2Rb5Uv0Q/OdO8Xuoukekwfl3qwxPFESp18=,tag:xAebayc/Cf4WwjXV1NekoA==,type:str]",
+	"chibapassword": "ENC[AES256_GCM,data:ULJo+DlbZgdx+4fG2TuzKzc=,iv:JnRQOK/COA+UtF9hys619l1DTjZZ0XQUBmZ3U7dQmZA=,tag:OnkxQMUVYTpirKIYpQCu2g==,type:str]",
+	"kawasakiusername": "ENC[AES256_GCM,data:DeC9oU1ICIcjriiHgJGuT2pzcK55gf7fiAZWzzdH4A==,iv:J++WskGiW1qEDjcUqYuwQELD8ZomzrDRHGw7a+1FrzQ=,tag:nhVVha4qiMxkHl6JeBRGHQ==,type:str]",
+	"kawasakipassword": "ENC[AES256_GCM,data:blJ0MJLMV0blw9o6gLta+3A=,iv:pnmhKLj0D7JBBK/Na1o6IpO68riR9A1C7Sy4O3DYqJs=,tag:GH8tgKgls7wfEr1MgJyieg==,type:str]",
+	"naganousername": "ENC[AES256_GCM,data:e28WyBMwMj6GbLtSQQa35l+8qVqtvpf6NbK7Aok=,iv:jgkNK79PgyyruOTYlaDp+ndMOzhfLjrcND05PYQCOTo=,tag:dlQLF7aaLpcOgReAYYCppg==,type:str]",
+	"naganopassword": "ENC[AES256_GCM,data:3zb8wGK3BGT07BpWWCBRE/A=,iv:kp788FcAWigdS//s4rxC0oDHKhWaFiZvre44+PZZUr0=,tag:zpe4utE7e4KFdcRACsJLPw==,type:str]",
+	"okazakiusername": "ENC[AES256_GCM,data:Pps5+g19tvchDB14NFS6PP8kg71LtvQz3N+iR0Iv,iv:XVFBhn+9nP2qpDFzSb7jHWeOdqqVygepRSEkpdisvQU=,tag:4A3zEj5olHf5DYblSd232g==,type:str]",
+	"okazakipassword": "ENC[AES256_GCM,data:68yDTMisi4zpJCoHMzya4xY=,iv:ziiKsRxD3evX7wSo1qLXn3BiQmaVSGi62Lw44fPbJwk=,tag:JQLZT9jZiv1dZaPXJ5ehew==,type:str]",
+	"okayamausername": "ENC[AES256_GCM,data:wlHKxFaqvoJyF8vBvwJwkUJGLhwoA2Qh3eVhmDiK,iv:eOvdZwMpGIjU9BOhcsT6IGRpWokMR1QURD6GkBKx0rc=,tag:vXZN91Tw+76UY/dU+rzMZQ==,type:str]",
+	"okayamapassword": "ENC[AES256_GCM,data:hQ5gbwvqwyQQBSKkgBoXI3Y=,iv:5aNma6Ku729NAP9ohxKPNsKbfTohYKSPES7YeNBfpVs=,tag:XbwsGGZVpzgHENbg5Ys5SQ==,type:str]",
+	"kce2eusername": "ENC[AES256_GCM,data:5axJMLLv7cxMnDVDO98kMLqprD72/lTG04s=,iv:cWZXXLi/nnvFq5ssZSgfe3xgCIGQZ144t5LnAHxZe7E=,tag:cIsfmAP1kcAIXsYPVgYfaw==,type:str]",
+	"kce2epassword": "ENC[AES256_GCM,data:yYyotGgVh/q8MMF+P2MJdjM=,iv:TGTmFBn2vwLJpwVqQrLc/H4jIEGFmaXyu+cXroZkhMY=,tag:7B/awaOBqxCR8v//5ZezIA==,type:str]",
+	"koriyamausername": "ENC[AES256_GCM,data:x17evuEeEjCOXKwrfErChsiJ3Q1SwBEVdegal3nxNQ==,iv:zF0j34EHlDMZ1HH4/vsTMWQUE6P5kWZ5k+xYxh++xRs=,tag:ob+VlSnMAXhsWIHM8L+dQA==,type:str]",
+	"koriyamapassword": "ENC[AES256_GCM,data:tAPc+NAzd9RZO+ItY6G6rpA=,iv:WnvqkbB8OIrNNEuuIp5L2p8YdoqNQ84CjF/Kd1R3MJw=,tag:1zRp+lrRDuXs05SsbJueOA==,type:str]",
+	"dominousername": "ENC[AES256_GCM,data:qbjURjJ+2tJgQd30NYbPK2omhJJaJjw=,iv:XYMh04yGBvgqLPhpVmnovqSGj4Id4HXBhMGR2R5gnVQ=,tag:Q5E0KItSoALj19k4jJWDPA==,type:str]",
+	"dominopassword": "ENC[AES256_GCM,data:8GzIL03rNeRL760LIzvySlo=,iv:nuQnosLmlyvB7z7ikeieBC4spHcBWSWm+75017ZXo+w=,tag:eDqx26aA00YFy1Hruh9cxg==,type:str]",
+	"sops": {
+		"kms": null,
+		"gcp_kms": [
+			{
+				"resource_id": "projects/onec-stage/locations/global/keyRings/sops-staging-keyring/cryptoKeys/sops-staging-cryptokey",
+				"created_at": "2022-06-28T17:44:44Z",
+				"enc": "CiQAtlJF6ZlJeIVRVrXrvjsTaLXEx6FK39BlFy6rxqrMaFSTXfYSSQD97cc+UGC599lB/tY2xnjkLkuE/ssp6o0kCQmxfQqOVK8ZsO140EMsqXha82o5+4Hsq0LGWWlTjunklKeXpvqWEcJ0VGuGP2I="
+			}
+		],
+		"azure_kv": null,
+		"hc_vault": null,
+		"age": null,
+		"lastmodified": "2022-06-28T17:44:45Z",
+		"mac": "ENC[AES256_GCM,data:Af5gN6YlAtEl/3b9kCIWajhruWUKhZ6qK5tui49SVVIT7I2MLsDwq/D6QLPnm9buhcA4ZIkFzZtIlGp605Cu5AbPNPXcTTIhS3wkTutBCYzv8jrS2Xei9E0aRdv1KIBOCcD85u1F4LuhDKpD4U9Whw/1psuw3zUcUC6Z66vfzOQ=,iv:KKohVuR6SR9jwxEG+n2l7jSM80WhRx3VPKvA+0KuiJQ=,tag:3GOiEm+iLumSCVcHWxh7Ew==,type:str]",
+		"pgp": null,
+		"unencrypted_suffix": "_unencrypted",
+		"version": "3.7.1"
+	}
+}

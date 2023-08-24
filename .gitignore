@@ -1,0 +1,5 @@
+libs/pages/__pycache__/
+.pabotsuitenames
+*.html
+*.xml
+*.png

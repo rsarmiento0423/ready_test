@@ -1,0 +1,41 @@
+{
+	"kcusername": "ENC[AES256_GCM,data:of6SCY8DBVKEZNiL6q1y+DNoBycWLpjnen8=,iv:I3CjzY0lkCT+d9yft646qGV8lE9GJ3JznAwF4r19GRQ=,tag:haH35NKIPfbdZ6faVFKl7w==,type:str]",
+	"kcpassword": "ENC[AES256_GCM,data:78sRDlGM+iLh07xXRU5d7Zo=,iv:8c/OOk4Mywnu8HeBgCJQDFGY3Zb1RmfoX1ZhInuudgU=,tag:Om6UON9u+dUKf8mF2F8aZA==,type:str]",
+	"kc_river_gauges": "ENC[AES256_GCM,data:hg==,iv:o0M9hp7dyNfEpk1GqYtcuZhqOo1los83pJyBcfkjjxc=,tag:IWqNHWJq+6YndexPkqchKg==,type:float]",
+	"chibausername": "ENC[AES256_GCM,data:iwM/hTz600wG3c2SS8I7Z7OVM37HqibPrSQFzw==,iv:kt3StkE6t0ZmHklBYxEfL3laro5wN0uezjtgeedGimw=,tag:W2DK14wkX2ztJ1/dSTKqgQ==,type:str]",
+	"chibapassword": "ENC[AES256_GCM,data:lL4GRzqi6CvyAl97OnI5lIs=,iv:z5JBI9HLv3HiljkSUNwKKfQIvysn74KQol+WD/PWL/U=,tag:QbA7fB70aM6PfYNXibmOwA==,type:str]",
+	"chiba_river_gauges": "ENC[AES256_GCM,data:vg==,iv:C37gDId7pUU3s24Wm2BB2nxGN/3P8ezQpj4FhxzQsIM=,tag:HtdobvIev238/8e0MEsBfQ==,type:float]",
+	"kawasakiusername": "ENC[AES256_GCM,data:sLjdLCLvz4llCyhfWbKwoKb/WsMALeHWFeXT/EebVA==,iv:rWubY6PynEoxMI164vqc+Wuq3ZgNGQUgPP5lH9Q+n2w=,tag:arWU2WAOABl+gu5nh7cffg==,type:str]",
+	"kawasakipassword": "ENC[AES256_GCM,data:YpBG4y06evr/FZlWU7B2UnU=,iv:c2aHK38VJnzlrZpXeKNdGwGGK2bqgq5d1htkKDAsyPo=,tag:wOwDzRGKVsgRImTI0n4uRQ==,type:str]",
+	"kawasaki_river_gauges": "ENC[AES256_GCM,data:9g==,iv:KkMdotfpYy5lQralq1Vu8vvL/77ZRoj3vxzWWmmOs0c=,tag:Etjk1uv+QmuA2XkCDwesEw==,type:float]",
+	"koriyamausername": "ENC[AES256_GCM,data:EZlEtHxsH7i8ED/ewneklrfOZqxI+BGYahxsZynZkw==,iv:SEkDf/ztUWcvQI/6SgbCptsiDFDNn/XYWhncMHiFkhk=,tag:HlL6+cLVDJkcqNW8A7Zpzw==,type:str]",
+	"koriyamapassword": "ENC[AES256_GCM,data:B9DUsz5zcUPNR2vy33h1Z6M=,iv:WR4xTy/ZBEFPRZ4wB1AO3zrgNDrbInUTE03cUcvVxrI=,tag:DuMcjG2rBk655WfB9NTOmQ==,type:str]",
+	"koriyama_river_gauges": "ENC[AES256_GCM,data:Og==,iv:6pgMveGBSPMOniNyXfRJjn3VZgeM0pCOxNJt/3g7CEI=,tag:AAg1U9IktaA++/mnTdyZyA==,type:float]",
+	"naganousername": "ENC[AES256_GCM,data:JiE/aiC2BqKl1ctseYuUYzZFwStrdOGIJwRlR9A=,iv:rbN10qBujJZ/KFFDa8iZWSNeeFKci6AhBgvWRoB8v7s=,tag:7DHH6ykr/kCk2jAaMoHFlg==,type:str]",
+	"naganopassword": "ENC[AES256_GCM,data:vhafbzdYKwEp1ogca4ctkoo=,iv:HGWHMjxMz9VOf3caex1ntEwq654Z7zoCccxjqgxkMYo=,tag:EqUoBte7VtaY7uPot/BUPA==,type:str]",
+	"nagano_river_gauges": "ENC[AES256_GCM,data:kw==,iv:HCpBcsIVfK7PBy1IuOPu2fqKXUJamzKi5WRawXyGu8A=,tag:t+7yqpY8ehrI8dsKfTh5bg==,type:float]",
+	"okayamausername": "ENC[AES256_GCM,data:Tlhgu9L9lTQDUtW9qHOsRSf9kTL3j1BQZmjHTWLf,iv:VzzWBPdoXArME5qMCDlRXWcVhJ9dV62eSqPeTgGSwvM=,tag:gnvZcVB5/cvvOw3SlyaZzQ==,type:str]",
+	"okayamapassword": "ENC[AES256_GCM,data:Y9ro3AZGGQu55H5fuW+6lLQ=,iv:AjZ5TKbv258L9lyt8eq5rIq1wGk+yE/Ira6SeZvCSkQ=,tag:pCQNcDYXNjfVQ1R9Dwpvjw==,type:str]",
+	"okayama_river_gauges": "ENC[AES256_GCM,data:9Q==,iv:oK6V+qzso1q61wG8xSRVsoO9xpOwr8zlMKkU4lffyKw=,tag:RZry6iP6FfuNpyE6OZ2zGQ==,type:float]",
+	"okazakiusername": "ENC[AES256_GCM,data:cJtNJ8nC6Dr5QWNt3tuM2bkfbz5ex8Px9s/5dMpu,iv:RMZHv1T6lS0WHEi2YUSmh6IgurHtIpddOSuRqfmXkcc=,tag:vqF0d9q3JcfJBtI8P1sfKQ==,type:str]",
+	"okazakipassword": "ENC[AES256_GCM,data:gHRw57ydUppQHlr9LlYDDjQ=,iv:X+B1oWF0fItZlT+IKW/9upIBdvpYhcETGn+Gd3ph5hc=,tag:BhsHslAyq+PjsM+1/WcbNg==,type:str]",
+	"okazaki_river_gauges": "ENC[AES256_GCM,data:Ww==,iv:iYDI6WR83bwdPcgjuOC5AEhabOr9hwvkJiXJyU71SzE=,tag:MgO9RVyCXHWmvhU9c5QFrA==,type:float]",
+	"sops": {
+		"kms": null,
+		"gcp_kms": [
+			{
+				"resource_id": "projects/onec-stage/locations/global/keyRings/sops-staging-keyring/cryptoKeys/sops-staging-cryptokey",
+				"created_at": "2022-04-11T13:47:13Z",
+				"enc": "CiQAtlJF6YaPeeioeiLy2UUmA3xVD4yFJ6WjI96tgdS7e1y6SPUSSQD97cc+iwAWEk2BdY7GzRY0mhlYqqtUaVGQpEvbDoMQqDytpe5lr0ajR07O91HRxsr+ovp7BFJDkInEq9HrLWiiGxsZ7R1CeRM="
+			}
+		],
+		"azure_kv": null,
+		"hc_vault": null,
+		"age": null,
+		"lastmodified": "2022-04-11T13:47:14Z",
+		"mac": "ENC[AES256_GCM,data:JxYgftChbwcnwnLc5HYHmvJW74+f6jaRxMKXLmofRINg69NyPTL2AA6tTLDpCOG3dflOZQKZxsVyoG+c6uToiTRYMF+NYbWGYuornew4QZiJPDQVgfwLlvDkMM+JUVEwW9CGDQ8C2MZm1U9Q4ab8Qdjyct/Mn0AEpq5FA/QiPZA=,iv:E7k56p+2bOUJKWHQ+gV0tQYYtTMfUykI/6t9V52vXIM=,tag:B4aYNzCb5VAMxpTec2IYdA==,type:str]",
+		"pgp": null,
+		"unencrypted_suffix": "_unencrypted",
+		"version": "3.7.1"
+	}
+}

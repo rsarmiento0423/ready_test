@@ -1,0 +1,7 @@
+ReadyProfilePage module
+=======================
+
+.. automodule:: ReadyProfilePage
+   :members:
+   :undoc-members:
+   :show-inheritance:

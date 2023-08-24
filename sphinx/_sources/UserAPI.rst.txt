@@ -1,0 +1,7 @@
+UserAPI module
+==============
+
+.. automodule:: UserAPI
+   :members:
+   :undoc-members:
+   :show-inheritance:

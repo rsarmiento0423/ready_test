@@ -1,0 +1,7 @@
+LibraryAPI module
+=================
+
+.. automodule:: LibraryAPI
+   :members:
+   :undoc-members:
+   :show-inheritance:
